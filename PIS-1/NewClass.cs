@@ -8,5 +8,6 @@ namespace PIS_1
 {
     class NewClass
     {
+        public void JesusMan() {}
     }
 }

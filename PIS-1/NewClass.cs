@@ -12,5 +12,8 @@ namespace PIS_1
         {
 
         }
+
+        public void JesusMan() {}
+
     }
 }
